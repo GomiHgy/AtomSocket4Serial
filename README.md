@@ -1,0 +1,2 @@
+# AtomSocket4Serial
+AtomSocketをSerialでコントロールするサンプルアプリ
